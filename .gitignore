@@ -5,3 +5,14 @@
 *.ipr
 out/
 *.class
+IdeaProjects.iml
+Main.java
+Main.java
+out/production/IdeaProjects/.idea/.gitignore
+out/production/IdeaProjects/.idea/misc.xml
+out/production/IdeaProjects/.idea/modules.xml
+out/production/IdeaProjects/.idea/vcs.xml
+out/production/IdeaProjects/Aula01OlaMundo.class
+out/production/IdeaProjects/Aula02TiposPrimitivos.class
+out/production/IdeaProjects/IdeaProjects.iml
+out/production/IdeaProjects/Main.class
